@@ -1,10 +1,9 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
+    compileSdkVersion 15
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "org.lunapark.ui.cleanui"
         minSdkVersion 15
         targetSdkVersion 15
         versionCode 1
