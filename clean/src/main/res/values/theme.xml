@@ -4,7 +4,7 @@
     <style name="CleanTheme" parent="android:Theme.Holo.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="android:buttonStyle" parent="@android:style/Widget.Button">@style/button</item>
-        <item name="android:textColor">#fff</item>
+        <item name="android:textViewStyle">@style/textview</item>
     </style>
 
 </resources>
