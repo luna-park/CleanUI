@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <style name="CleanTheme" parent="android:Theme.Holo.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="android:buttonStyle" parent="@android:style/Widget.Button">@style/button</item>
-    </style>
-</resources>
