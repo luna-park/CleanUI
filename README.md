@@ -21,14 +21,6 @@ dependencies {
 ```
 ### 3. Add theme to styles.xml
 ```xml
-<resources>
-
-    <!-- Base application theme. -->
-    <!--<style name="AppTheme" parent="android:Theme.Light.NoTitleBar" />-->
-    <style name="AppTheme" parent="@style/CleanTheme">
-
-    </style>
-
-</resources>
+<!-- Base application theme. -->
+<style name="AppTheme" parent="@style/CleanTheme">
 ```
-
