@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="button" parent="@android:style/Widget.Button">
+        <item name="android:textColor">#FFFFFFFF</item>
+    </style>
+</resources>
