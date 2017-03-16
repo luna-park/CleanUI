@@ -1,7 +1,7 @@
 # Android Clean UI
 Android theme based on Theme.Holo.NoActionBar.
 
-##Usage:<br>
+## Usage:<br>
 ### 1. Add to root build.gradle:
 ```gradle
 allprojects {
